@@ -88,3 +88,11 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+@media print
+{
+	h1
+	{
+		color: #0000cd;
+	}
+}
+
